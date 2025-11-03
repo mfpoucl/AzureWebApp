@@ -1,0 +1,11 @@
+C:\Users\maflp\Desktop\Softwaresikkerhed_programmer\unittests\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net9.0\PrimeService.deps.json
+C:\Users\maflp\Desktop\Softwaresikkerhed_programmer\unittests\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net9.0\PrimeService.dll
+C:\Users\maflp\Desktop\Softwaresikkerhed_programmer\unittests\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net9.0\PrimeService.pdb
+C:\Users\maflp\Desktop\Softwaresikkerhed_programmer\unittests\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net9.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maflp\Desktop\Softwaresikkerhed_programmer\unittests\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net9.0\PrimeService.AssemblyInfoInputs.cache
+C:\Users\maflp\Desktop\Softwaresikkerhed_programmer\unittests\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net9.0\PrimeService.AssemblyInfo.cs
+C:\Users\maflp\Desktop\Softwaresikkerhed_programmer\unittests\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net9.0\PrimeService.csproj.CoreCompileInputs.cache
+C:\Users\maflp\Desktop\Softwaresikkerhed_programmer\unittests\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net9.0\PrimeService.dll
+C:\Users\maflp\Desktop\Softwaresikkerhed_programmer\unittests\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net9.0\refint\PrimeService.dll
+C:\Users\maflp\Desktop\Softwaresikkerhed_programmer\unittests\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net9.0\PrimeService.pdb
+C:\Users\maflp\Desktop\Softwaresikkerhed_programmer\unittests\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net9.0\ref\PrimeService.dll

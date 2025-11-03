@@ -1,0 +1,43 @@
+C:\Users\maflp\Desktop\Softwaresikkerhed programmer\DomænePrimitiver\bin\Debug\net9.0\DomænePrimitiver.exe
+C:\Users\maflp\Desktop\Softwaresikkerhed programmer\DomænePrimitiver\bin\Debug\net9.0\DomænePrimitiver.deps.json
+C:\Users\maflp\Desktop\Softwaresikkerhed programmer\DomænePrimitiver\bin\Debug\net9.0\DomænePrimitiver.runtimeconfig.json
+C:\Users\maflp\Desktop\Softwaresikkerhed programmer\DomænePrimitiver\bin\Debug\net9.0\DomænePrimitiver.dll
+C:\Users\maflp\Desktop\Softwaresikkerhed programmer\DomænePrimitiver\bin\Debug\net9.0\DomænePrimitiver.pdb
+C:\Users\maflp\Desktop\Softwaresikkerhed programmer\DomænePrimitiver\obj\Debug\net9.0\DomænePrimitiver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maflp\Desktop\Softwaresikkerhed programmer\DomænePrimitiver\obj\Debug\net9.0\DomænePrimitiver.AssemblyInfoInputs.cache
+C:\Users\maflp\Desktop\Softwaresikkerhed programmer\DomænePrimitiver\obj\Debug\net9.0\DomænePrimitiver.AssemblyInfo.cs
+C:\Users\maflp\Desktop\Softwaresikkerhed programmer\DomænePrimitiver\obj\Debug\net9.0\DomænePrimitiver.csproj.CoreCompileInputs.cache
+C:\Users\maflp\Desktop\Softwaresikkerhed programmer\DomænePrimitiver\obj\Debug\net9.0\DomænePrimitiver.dll
+C:\Users\maflp\Desktop\Softwaresikkerhed programmer\DomænePrimitiver\obj\Debug\net9.0\refint\DomænePrimitiver.dll
+C:\Users\maflp\Desktop\Softwaresikkerhed programmer\DomænePrimitiver\obj\Debug\net9.0\DomænePrimitiver.pdb
+C:\Users\maflp\Desktop\Softwaresikkerhed programmer\DomænePrimitiver\obj\Debug\net9.0\DomænePrimitiver.genruntimeconfig.cache
+C:\Users\maflp\Desktop\Softwaresikkerhed programmer\DomænePrimitiver\obj\Debug\net9.0\ref\DomænePrimitiver.dll
+C:\Users\maflp\Desktop\Softwaresikkerhed_programmer\unittests\unit-testing-dto\DTO\DomænePrimitiver\bin\Debug\net9.0\DomænePrimitiver.exe
+C:\Users\maflp\Desktop\Softwaresikkerhed_programmer\unittests\unit-testing-dto\DTO\DomænePrimitiver\bin\Debug\net9.0\DomænePrimitiver.deps.json
+C:\Users\maflp\Desktop\Softwaresikkerhed_programmer\unittests\unit-testing-dto\DTO\DomænePrimitiver\bin\Debug\net9.0\DomænePrimitiver.runtimeconfig.json
+C:\Users\maflp\Desktop\Softwaresikkerhed_programmer\unittests\unit-testing-dto\DTO\DomænePrimitiver\bin\Debug\net9.0\DomænePrimitiver.dll
+C:\Users\maflp\Desktop\Softwaresikkerhed_programmer\unittests\unit-testing-dto\DTO\DomænePrimitiver\bin\Debug\net9.0\DomænePrimitiver.pdb
+C:\Users\maflp\Desktop\Softwaresikkerhed_programmer\unittests\unit-testing-dto\DTO\DomænePrimitiver\obj\Debug\net9.0\DomænePrimitiver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maflp\Desktop\Softwaresikkerhed_programmer\unittests\unit-testing-dto\DTO\DomænePrimitiver\obj\Debug\net9.0\DomænePrimitiver.AssemblyInfoInputs.cache
+C:\Users\maflp\Desktop\Softwaresikkerhed_programmer\unittests\unit-testing-dto\DTO\DomænePrimitiver\obj\Debug\net9.0\DomænePrimitiver.AssemblyInfo.cs
+C:\Users\maflp\Desktop\Softwaresikkerhed_programmer\unittests\unit-testing-dto\DTO\DomænePrimitiver\obj\Debug\net9.0\DomænePrimitiver.csproj.CoreCompileInputs.cache
+C:\Users\maflp\Desktop\Softwaresikkerhed_programmer\unittests\unit-testing-dto\DTO\DomænePrimitiver\obj\Debug\net9.0\DomænePrimitiver.dll
+C:\Users\maflp\Desktop\Softwaresikkerhed_programmer\unittests\unit-testing-dto\DTO\DomænePrimitiver\obj\Debug\net9.0\refint\DomænePrimitiver.dll
+C:\Users\maflp\Desktop\Softwaresikkerhed_programmer\unittests\unit-testing-dto\DTO\DomænePrimitiver\obj\Debug\net9.0\DomænePrimitiver.pdb
+C:\Users\maflp\Desktop\Softwaresikkerhed_programmer\unittests\unit-testing-dto\DTO\DomænePrimitiver\obj\Debug\net9.0\DomænePrimitiver.genruntimeconfig.cache
+C:\Users\maflp\Desktop\Softwaresikkerhed_programmer\unittests\unit-testing-dto\DTO\DomænePrimitiver\obj\Debug\net9.0\ref\DomænePrimitiver.dll
+C:\Users\maflp\Desktop\Azure project\DomainPrimitives\unittests\unit-testing-dto\DTO\DomænePrimitiver\bin\Debug\net9.0\DomænePrimitiver.exe
+C:\Users\maflp\Desktop\Azure project\DomainPrimitives\unittests\unit-testing-dto\DTO\DomænePrimitiver\bin\Debug\net9.0\DomænePrimitiver.deps.json
+C:\Users\maflp\Desktop\Azure project\DomainPrimitives\unittests\unit-testing-dto\DTO\DomænePrimitiver\bin\Debug\net9.0\DomænePrimitiver.runtimeconfig.json
+C:\Users\maflp\Desktop\Azure project\DomainPrimitives\unittests\unit-testing-dto\DTO\DomænePrimitiver\bin\Debug\net9.0\DomænePrimitiver.dll
+C:\Users\maflp\Desktop\Azure project\DomainPrimitives\unittests\unit-testing-dto\DTO\DomænePrimitiver\bin\Debug\net9.0\DomænePrimitiver.pdb
+C:\Users\maflp\Desktop\Azure project\DomainPrimitives\unittests\unit-testing-dto\DTO\DomænePrimitiver\obj\Debug\net9.0\DomænePrimitiver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maflp\Desktop\Azure project\DomainPrimitives\unittests\unit-testing-dto\DTO\DomænePrimitiver\obj\Debug\net9.0\DomænePrimitiver.AssemblyInfoInputs.cache
+C:\Users\maflp\Desktop\Azure project\DomainPrimitives\unittests\unit-testing-dto\DTO\DomænePrimitiver\obj\Debug\net9.0\DomænePrimitiver.AssemblyInfo.cs
+C:\Users\maflp\Desktop\Azure project\DomainPrimitives\unittests\unit-testing-dto\DTO\DomænePrimitiver\obj\Debug\net9.0\DomænePrimitiver.csproj.CoreCompileInputs.cache
+C:\Users\maflp\Desktop\Azure project\DomainPrimitives\unittests\unit-testing-dto\DTO\DomænePrimitiver\obj\Debug\net9.0\DomænePrimitiver.dll
+C:\Users\maflp\Desktop\Azure project\DomainPrimitives\unittests\unit-testing-dto\DTO\DomænePrimitiver\obj\Debug\net9.0\refint\DomænePrimitiver.dll
+C:\Users\maflp\Desktop\Azure project\DomainPrimitives\unittests\unit-testing-dto\DTO\DomænePrimitiver\obj\Debug\net9.0\DomænePrimitiver.pdb
+C:\Users\maflp\Desktop\Azure project\DomainPrimitives\unittests\unit-testing-dto\DTO\DomænePrimitiver\obj\Debug\net9.0\DomænePrimitiver.genruntimeconfig.cache
+C:\Users\maflp\Desktop\Azure project\DomainPrimitives\unittests\unit-testing-dto\DTO\DomænePrimitiver\obj\Debug\net9.0\ref\DomænePrimitiver.dll
+C:\Users\maflp\Desktop\Azure project\DomainPrimitives\unittests\unit-testing-dto\DTO\DomænePrimitiver\obj\Debug\net9.0\DomænePrimitiver.sourcelink.json
